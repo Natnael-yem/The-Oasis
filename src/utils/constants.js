@@ -1,0 +1,1 @@
+export const Page_SIZE = 10;
